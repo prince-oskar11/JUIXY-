@@ -1,0 +1,8 @@
+{
+  "name": "Juixy Premium Menu",
+  "short_name": "Juixy",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "theme_color": "#1F8C8B",
+  "background_color": "#F4F1D0"
+}
